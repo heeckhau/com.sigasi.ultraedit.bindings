@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.sigasi.ultraedit.bindings.feature_1.0.0.qualifier.jar" id="com.sigasi.ultraedit.bindings.feature" version="1.0.0.qualifier">
+      <category name="com.sigasi.ultraedit.bindings"/>
+   </feature>
+   <category-def name="com.sigasi.ultraedit.bindings" label="UltraEdit key bindings">
+      <description>
+         UltraEdit key bindings
+      </description>
+   </category-def>
+</site>
