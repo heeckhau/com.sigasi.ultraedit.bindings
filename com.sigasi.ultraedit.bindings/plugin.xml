@@ -5,79 +5,79 @@
       <scheme
           name="UltraEdit"
           description="UltraEdit-like key bindings"
-          id="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration">
+          id="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration">
       </scheme>
-		<key commandId="org.eclipse.ui.newWizard" sequence="M1+N" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.ui.edit.copy" sequence="M1+C" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.ui.edit.copy" sequence="M1+INSERT" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.ui.edit.paste" sequence="M2+INSERT" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.ui.window.previousEditor" sequence="M2+F6" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.ui.edit.text.upperCase" sequence="M2+F5" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" />
-		<key commandId="org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+B"/>
-		<key commandId="org.eclipse.ui.edit.text.deletePreviousWord"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+BS"/>
-		<key commandId="org.eclipse.ui.edit.text.deleteNextWord"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+DEL"/>
-		<key commandId="org.eclipse.ui.edit.text.scroll.lineDown"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+ARROW_DOWN"/>
-		<key commandId="org.eclipse.ui.edit.text.delete.line"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+E"/>
-		<key commandId="org.eclipse.search.ui.performTextSearchFile"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F"/>
-		<key commandId="org.eclipse.ui.window.nextView"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F10"/>
-		<key commandId="org.eclipse.ui.edit.text.delete.line.to.beginning"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F11"/>
-		<key commandId="org.eclipse.ui.edit.text.delete.line.to.end"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F12"/>
-		<key commandId="org.eclipse.ui.edit.findPrevious"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F3"/>
-		<key commandId="org.eclipse.ui.file.close"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F4"/>
-		<key commandId="org.eclipse.ui.edit.text.lowerCase"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F5"/>
-		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F6"/>
-		<key commandId="org.eclipse.ui.navigate.goToResource"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M2+G"/>
-		<key commandId="org.eclipse.ui.navigate.expandAll"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_MULTIPLY"/>
-		<key commandId="org.eclipse.ui.edit.text.goto.wordNext"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_2"/>
-		<key commandId="org.eclipse.ui.edit.text.goto.wordPrevious"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_1"/>
-		<key commandId="org.eclipse.ui.edit.text.openLocalFile"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+O"/>
-		<key commandId="org.eclipse.ui.file.print"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+P"/>
-		<key commandId="org.eclipse.ui.edit.text.openLocalFile"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+Q"/>
-		<key commandId="org.eclipse.ui.edit.findReplace"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+R"/>
-		<key commandId="org.eclipse.ui.edit.text.smartEnterInverse"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+CR"/>
-		<key commandId="org.eclipse.ui.file.save"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+S"/>
-		<key commandId="org.eclipse.ui.file.closeAll"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+M2+F4"/>
-		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+M2+F6"/>
+		<key commandId="org.eclipse.ui.newWizard" sequence="M1+N" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.ui.edit.copy" sequence="M1+C" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.ui.edit.copy" sequence="M1+INSERT" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.ui.edit.paste" sequence="M2+INSERT" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.ui.window.previousEditor" sequence="M2+F6" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.ui.edit.text.upperCase" sequence="M2+F5" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" />
+		<key commandId="org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+B"/>
+		<key commandId="org.eclipse.ui.edit.text.deletePreviousWord"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+BS"/>
+		<key commandId="org.eclipse.ui.edit.text.deleteNextWord"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+DEL"/>
+		<key commandId="org.eclipse.ui.edit.text.scroll.lineDown"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+ARROW_DOWN"/>
+		<key commandId="org.eclipse.ui.edit.text.delete.line"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+E"/>
+		<key commandId="org.eclipse.search.ui.performTextSearchFile"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F"/>
+		<key commandId="org.eclipse.ui.window.nextView"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F10"/>
+		<key commandId="org.eclipse.ui.edit.text.delete.line.to.beginning"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F11"/>
+		<key commandId="org.eclipse.ui.edit.text.delete.line.to.end"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F12"/>
+		<key commandId="org.eclipse.ui.edit.findPrevious"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F3"/>
+		<key commandId="org.eclipse.ui.file.close"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F4"/>
+		<key commandId="org.eclipse.ui.edit.text.lowerCase"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F5"/>
+		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F6"/>
+		<key commandId="org.eclipse.ui.navigate.goToResource"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M2+G"/>
+		<key commandId="org.eclipse.ui.navigate.expandAll"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_MULTIPLY"/>
+		<key commandId="org.eclipse.ui.edit.text.goto.wordNext"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_2"/>
+		<key commandId="org.eclipse.ui.edit.text.goto.wordPrevious"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_1"/>
+		<key commandId="org.eclipse.ui.edit.text.openLocalFile"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+O"/>
+		<key commandId="org.eclipse.ui.file.print"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+P"/>
+		<key commandId="org.eclipse.ui.edit.text.openLocalFile"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+Q"/>
+		<key commandId="org.eclipse.ui.edit.findReplace"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+R"/>
+		<key commandId="org.eclipse.ui.edit.text.smartEnterInverse"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+CR"/>
+		<key commandId="org.eclipse.ui.file.save"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+S"/>
+		<key commandId="org.eclipse.ui.file.closeAll"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+M2+F4"/>
+		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+M2+F6"/>
 		<key commandId="org.eclipse.ui.edit.findIncremental" contextId="org.eclipse.ui.textEditorScope" schemeId="org.eclipse.ui.defaultAcceleratorConfiguration" sequence="M1+M2+I"/>
-		<key commandId="org.eclipse.ui.edit.text.contentAssist.proposals"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+SPACE"/>
-		<key commandId="org.eclipse.ui.edit.text.folding.toggle"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+-"/>
-		<key commandId="org.eclipse.ui.edit.findNext"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M2+F3"/>
-		<key commandId="org.eclipse.ui.help.dynamicHelp"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M2+F1"/>
-		<key commandId="org.eclipse.ui.edit.cut"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M2+DEL"/>
-		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="F6"/>
-		<key commandId="org.eclipse.ui.window.nextView"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="F4"/>
-		<key commandId="org.eclipse.ui.edit.findNext"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="F3"/>
-		<key commandId="org.eclipse.ui.file.saveAs"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="F12"/>
-		<key commandId="org.eclipse.ui.edit.undo"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+Z"/>
-		<key commandId="org.eclipse.ui.edit.redo"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+Y"/>
-		<key commandId="org.eclipse.ui.edit.cut"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+X"/>
-		<key commandId="org.eclipse.ui.edit.paste"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+V"/>
-		<key commandId="org.eclipse.ui.edit.text.scroll.lineUp"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+ARROW_UP"/>
-		<key commandId="org.eclipse.ui.navigate.collapseAll"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_ADD"/>
-		<key commandId="org.eclipse.ui.edit.selectAll"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+A"/>
-		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+ARROW_UP"/>
-		<key commandId="org.eclipse.ui.project.properties"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+M2+S"/>
-		<key commandId="org.eclipse.debug.ui.commands.RunLast"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+M2+R"/>
-		<key commandId="org.eclipse.ui.project.openProject"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+M2+O"/>
-		<key commandId="org.eclipse.ui.edit.text.copyLineUp"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+M2+D"/>
-		<key commandId="org.eclipse.ui.project.closeProject"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+M2+C"/>
-		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+ARROW_DOWN"/>
-		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+F10"/>
-		<key commandId="org.eclipse.ui.file.saveAll"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+F12"/>
-		<key commandId="org.eclipse.search.ui.performTextSearchFile"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+F3"/>
-		<key commandId="org.eclipse.ui.edit.text.upperCase"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+F5"/>
-		<key commandId="org.eclipse.ui.edit.text.goto.windowEnd"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+PAGE_DOWN"/>
-		<key commandId="org.eclipse.ui.edit.text.goto.windowStart"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+PAGE_UP"/>
+		<key commandId="org.eclipse.ui.edit.text.contentAssist.proposals"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+SPACE"/>
+		<key commandId="org.eclipse.ui.edit.text.folding.toggle"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+-"/>
+		<key commandId="org.eclipse.ui.edit.findNext"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M2+F3"/>
+		<key commandId="org.eclipse.ui.help.dynamicHelp"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M2+F1"/>
+		<key commandId="org.eclipse.ui.edit.cut"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M2+DEL"/>
+		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="F6"/>
+		<key commandId="org.eclipse.ui.window.nextView"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="F4"/>
+		<key commandId="org.eclipse.ui.edit.findNext"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="F3"/>
+		<key commandId="org.eclipse.ui.file.saveAs"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="F12"/>
+		<key commandId="org.eclipse.ui.edit.undo"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+Z"/>
+		<key commandId="org.eclipse.ui.edit.redo"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+Y"/>
+		<key commandId="org.eclipse.ui.edit.cut"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+X"/>
+		<key commandId="org.eclipse.ui.edit.paste"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+V"/>
+		<key commandId="org.eclipse.ui.edit.text.scroll.lineUp"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+ARROW_UP"/>
+		<key commandId="org.eclipse.ui.navigate.collapseAll"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+NUMPAD_ADD"/>
+		<key commandId="org.eclipse.ui.edit.selectAll"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+A"/>
+		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+ARROW_UP"/>
+		<key commandId="org.eclipse.ui.project.properties"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+M2+S"/>
+		<key commandId="org.eclipse.debug.ui.commands.RunLast"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+M2+R"/>
+		<key commandId="org.eclipse.ui.project.openProject"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+M2+O"/>
+		<key commandId="org.eclipse.ui.edit.text.copyLineUp"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+M2+D"/>
+		<key commandId="org.eclipse.ui.project.closeProject"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+M2+C"/>
+		<key commandId="org.eclipse.ui.window.nextEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+ARROW_DOWN"/>
+		<key commandId="org.eclipse.ui.window.previousEditor"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+F10"/>
+		<key commandId="org.eclipse.ui.file.saveAll"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+F12"/>
+		<key commandId="org.eclipse.search.ui.performTextSearchFile"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+F3"/>
+		<key commandId="org.eclipse.ui.edit.text.upperCase"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+F5"/>
+		<key commandId="org.eclipse.ui.edit.text.goto.windowEnd"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+PAGE_DOWN"/>
+		<key commandId="org.eclipse.ui.edit.text.goto.windowStart"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+PAGE_UP"/>
         
-        <key commandId="org.eclipse.ui.navigate.showIn"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="F2">
+        <key commandId="org.eclipse.ui.navigate.showIn"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="F2">
 			<parameter id="org.eclipse.ui.navigate.showIn.targetId" value="org.eclipse.ui.views.BookmarkView"/>
 		</key>
-		<key commandId="org.eclipse.ui.views.showView"  schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+U">
+		<key commandId="org.eclipse.ui.views.showView"  schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+U">
 			<parameter id="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.views.ResourceNavigator"/>
 		</key>
 		
-		<key commandId="org.eclipse.ui.edit.text.toggleBlockSelectionMode" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M3+C"/>
-		<key commandId="org.eclipse.ui.edit.addBookmark" schemeId="com.sigasi.hdt.shared.ui.ultraEditAcceleratorConfiguration" sequence="M1+F2"/>
+		<key commandId="org.eclipse.ui.edit.text.toggleBlockSelectionMode" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M3+C"/>
+		<key commandId="org.eclipse.ui.edit.addBookmark" schemeId="com.sigasi.ultraedit.bindings.ultraEditAcceleratorConfiguration" sequence="M1+F2"/>
         
    </extension>  
 </plugin>
