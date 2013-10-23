@@ -6,8 +6,5 @@ To activate these key bindings, click <strong>Window > Preferences > General > K
 Update site:
 `http://download.sigasi.com/updates/ultraedit`
 
-More info on key bindings schemes:
-http://help.eclipse.org/indigo/index.jsp?topic=/org.eclipse.platform.doc.isv/guide/wrkAdv%255FkeyBindings%255FaccelConfig.htm
-
 To Build:
 run: `mvn clean install`
